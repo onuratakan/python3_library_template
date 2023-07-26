@@ -1,3 +1,10 @@
+---
+layout: default
+title: INTRODUCTION
+nav_order: 1
+has_children: false
+---
+
 # KOT database
 
 The KOT database is a flexible, secure, and scalable database that supports multiple data formats. It comes with built-in features for compressing and encrypting data, and is compatible with all operating systems. With easy-to-use commands, the KOT database is an excellent choice for developers seeking an efficient and reliable storage solution for their data.
